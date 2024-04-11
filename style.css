@@ -6,7 +6,7 @@
 }
 
 header {
-    background-color: #374bbe;
+    background-color: #fa9fd4;
     color: white;
     }
 
@@ -15,7 +15,7 @@ header {
  }
 
 .cabecalho {
-    background-color: #383d58;
+    background-color: #960755;
     color: white;
     display: flex;
     justify-content: space-around;
