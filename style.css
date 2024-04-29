@@ -7,16 +7,16 @@
 
 header {
     background-color: #fa9fd4;
-    color: white;
+    color: plum;
     }
 
 .imagem {
-    width: 20%;
+    width: 50%;
  }
 
 .cabecalho {
     background-color: pink;
-    color: white;
+    color: pink
     display: flex;
     justify-content: space-around;
  }
