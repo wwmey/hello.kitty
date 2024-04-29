@@ -11,11 +11,11 @@ header {
     }
 
 .imagem {
-    width: 10%;
+    width: 20%;
  }
 
 .cabecalho {
-    background-color: #960755;
+    background-color: pink;
     color: white;
     display: flex;
     justify-content: space-around;
