@@ -11,7 +11,7 @@ header {
     }
 
 .imagem {
-    width: 50%;
+    width: 30%;
  }
 
 .cabecalho {
@@ -23,9 +23,9 @@ header {
  }
 
 .item {
-    color: white;
+    color: pink;
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 19px;
  }
 
  
