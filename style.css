@@ -24,7 +24,7 @@ header {
 
 .item {
     color: pink;
-    display: inline-block;
+    display: -moz-marker;
     margin: 0 19px;
  }
 
