@@ -17,7 +17,8 @@ header {
 .cabecalho {
     background-color: pink;
     color: pink
-    display: flex;
+    display flex;
+
     justify-content: space-around;
  }
 
